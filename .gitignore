@@ -26,3 +26,5 @@ config.js
 *.xml
 *.iml
 Simple_Map/.DS_Store
+Simple_Map/static/css/.DS_Store
+Mapping_Single_Points/static/.DS_Store
