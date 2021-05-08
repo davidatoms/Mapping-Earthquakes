@@ -11,3 +11,8 @@ Columbia Module 13 - Mapping Earthquakes using JS and learning Git essentials
 - Added multiple map layers to geographical maps using Leaflet control plugins to add user interface controls.
 - Used JavaScript ES6 fucntions to add GeoJSON data, features, and interactivity to maps.
 - Rendered maps on a local server.
+
+## Purpose:
+The purpose of this challenge was to show data from earthquakes compared to tectonic plates' location. I show the earthquakes with a magnitude greater than 4.0 on the Richter Scale on the map. The map was created with a JSON request from Mapbox. It provides a new style of choice that can be used to show visualize the analytics of the different earthquakes in the datasets.
+
+## Method:
