@@ -23,3 +23,5 @@
 hs_err_pid*
 *.js
 config.js
+*.xml
+*.iml
