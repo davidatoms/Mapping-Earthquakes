@@ -16,3 +16,17 @@ Columbia Module 13 - Mapping Earthquakes using JS and learning Git essentials
 The purpose of this challenge was to show data from earthquakes compared to tectonic plates' location. I show the earthquakes with a magnitude greater than 4.0 on the Richter Scale on the map. The map was created with a JSON request from Mapbox. It provides a new style of choice that can be used to show visualize the analytics of the different earthquakes in the datasets.
 
 ## Method:
+The method starts with finding a source of data that includes active and historical earthquakes. Second, generate an API token for the MapBox website, and then it was important to access that data with a script in Java. Building from the most basic of maps to adding extra layers of lines and points. It was similar to an overhead projector.
+
+![Overhead Projector](Challenge/static/images/overhead_projector.png)
+
+- Layer 1: the map;
+- Layer 2: the map with lines;
+- Layer 3: the map with lines and dots;
+- Layer 4: the map with lineds, dots, and earthquake data;
+- Layer 5: added design to Layer 4.
+
+## Project Deliverable:
+The map shows earthquakes in a given area that were recorded above a 4.0 on the Richter scale.
+
+![Challenge Map Deliverable](Challenge/static/images/earthquakes.png)
