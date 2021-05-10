@@ -20,11 +20,11 @@ The method starts with finding a source of data that includes active and histori
 
 ![Overhead Projector](Challenge/static/images/overhead_projector.png)
 
-- Layer 1: the map;
-- Layer 2: the map with lines;
-- Layer 3: the map with lines and dots;
-- Layer 4: the map with lineds, dots, and earthquake data;
-- Layer 5: added design to Layer 4.
+- _Layer 1_: the map;
+- _Layer 2_: the map with lines;
+- _Layer 3_: the map with lines and dots;
+- _Layer 4_: the map with lineds, dots, and earthquake data;
+- _Layer 5_: added design to Layer 4.
 
 ## Project Deliverable:
 The map shows earthquakes in a given area that were recorded above a 4.0 on the Richter scale.
