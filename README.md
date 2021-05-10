@@ -27,6 +27,5 @@ The method starts with finding a source of data that includes active and histori
 - _Layer 5_: added design to Layer 4.
 
 ## Project Deliverable:
-The map shows earthquakes in a given area that were recorded above a 4.0 on the Richter scale.
 
 ![Challenge Map Deliverable](Challenge/static/images/earthquakes.png)
